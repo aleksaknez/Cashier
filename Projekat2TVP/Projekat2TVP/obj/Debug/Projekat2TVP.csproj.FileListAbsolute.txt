@@ -1,0 +1,20 @@
+C:\Users\Hype\Desktop\Sve\Projekat Cs\Projekat2TVP\Projekat2TVP\bin\Debug\Projekat2TVP.exe.config
+C:\Users\Hype\Desktop\Sve\Projekat Cs\Projekat2TVP\Projekat2TVP\bin\Debug\Projekat2TVP.exe
+C:\Users\Hype\Desktop\Sve\Projekat Cs\Projekat2TVP\Projekat2TVP\bin\Debug\Projekat2TVP.pdb
+C:\Users\Hype\Desktop\Sve\Projekat Cs\Projekat2TVP\Projekat2TVP\obj\Debug\Projekat2TVP.csprojAssemblyReference.cache
+C:\Users\Hype\Desktop\Sve\Projekat Cs\Projekat2TVP\Projekat2TVP\obj\Debug\Projekat2TVP.FormaZaKasira.resources
+C:\Users\Hype\Desktop\Sve\Projekat Cs\Projekat2TVP\Projekat2TVP\obj\Debug\Projekat2TVP.Properties.Resources.resources
+C:\Users\Hype\Desktop\Sve\Projekat Cs\Projekat2TVP\Projekat2TVP\obj\Debug\Projekat2TVP.csproj.GenerateResource.cache
+C:\Users\Hype\Desktop\Sve\Projekat Cs\Projekat2TVP\Projekat2TVP\obj\Debug\Projekat2TVP.csproj.CoreCompileInputs.cache
+C:\Users\Hype\Desktop\Sve\Projekat Cs\Projekat2TVP\Projekat2TVP\obj\Debug\Projekat2TVP.exe
+C:\Users\Hype\Desktop\Sve\Projekat Cs\Projekat2TVP\Projekat2TVP\obj\Debug\Projekat2TVP.pdb
+C:\Users\38165\Desktop\Aleksa\aca\Projekat2TVP\Projekat2TVP\bin\Debug\Projekat2TVP.exe.config
+C:\Users\38165\Desktop\Aleksa\aca\Projekat2TVP\Projekat2TVP\bin\Debug\Projekat2TVP.exe
+C:\Users\38165\Desktop\Aleksa\aca\Projekat2TVP\Projekat2TVP\bin\Debug\Projekat2TVP.pdb
+C:\Users\38165\Desktop\Aleksa\aca\Projekat2TVP\Projekat2TVP\obj\Debug\Projekat2TVP.csprojAssemblyReference.cache
+C:\Users\38165\Desktop\Aleksa\aca\Projekat2TVP\Projekat2TVP\obj\Debug\Projekat2TVP.FormaZaKasira.resources
+C:\Users\38165\Desktop\Aleksa\aca\Projekat2TVP\Projekat2TVP\obj\Debug\Projekat2TVP.Properties.Resources.resources
+C:\Users\38165\Desktop\Aleksa\aca\Projekat2TVP\Projekat2TVP\obj\Debug\Projekat2TVP.csproj.GenerateResource.cache
+C:\Users\38165\Desktop\Aleksa\aca\Projekat2TVP\Projekat2TVP\obj\Debug\Projekat2TVP.csproj.CoreCompileInputs.cache
+C:\Users\38165\Desktop\Aleksa\aca\Projekat2TVP\Projekat2TVP\obj\Debug\Projekat2TVP.exe
+C:\Users\38165\Desktop\Aleksa\aca\Projekat2TVP\Projekat2TVP\obj\Debug\Projekat2TVP.pdb
